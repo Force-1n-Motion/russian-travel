@@ -4,7 +4,7 @@
    display: flex;
    max-width: 1184px;
    min-height: 740px;
-   background: url(/images/cover-trains.jpg);
+   background: url(../../images/cover-trains.jpg);
    background-size: cover;
    margin: 0 auto;
    align-items: center;
