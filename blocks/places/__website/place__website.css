@@ -1,0 +1,18 @@
+
+
+.place__website {
+   display: flex;
+   gap: 12px;
+   flex-direction: column;
+   color: #fff;
+   grid-row: 1/2;
+   grid-column: 2/3;
+   align-self: end;
+ }
+
+ @media (max-width: 625px) {
+   .place__website {
+     grid-area: place__website;
+     padding: 0 16px;
+   }
+}

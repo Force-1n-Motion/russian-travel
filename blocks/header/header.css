@@ -1,0 +1,29 @@
+
+
+.header {
+   display: flex;
+   justify-content: space-between;
+   max-width: 1184px;
+   margin: 28px 48px 56px;
+ }
+
+ @media (max-width: 1184px) {
+   .header {
+     margin: 28px 48px 48px;
+     max-width: 928px;
+   }
+ }
+ 
+ @media (max-width: 1000px) {
+   .header {
+     margin: 28px 24px 48px;
+   }
+ }
+ 
+ @media (max-width: 600px) {
+   .header {
+     margin: 16px 16px 48px;
+     align-items: center;
+   }
+ }
+ 

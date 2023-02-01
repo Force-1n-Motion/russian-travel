@@ -1,0 +1,11 @@
+
+
+.header__lang-links {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   align-content: flex-end;
+   flex-wrap: wrap;
+   gap: 18px;
+ }

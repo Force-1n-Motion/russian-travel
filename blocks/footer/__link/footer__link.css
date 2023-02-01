@@ -1,0 +1,29 @@
+
+
+.footer__link {
+   text-decoration: none;
+   color: #fff;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 18px;
+ }
+
+ .footer__link:hover {
+   opacity: 0.8;
+ }
+
+ @media (max-width: 1000px) {
+   .footer__link {
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 18px;
+   }
+ }
+
+ @media (max-width: 600px) {
+   .footer__link {
+     font-weight: 400;
+     font-size: 24px;
+     line-height: 24px;
+   }
+ }
