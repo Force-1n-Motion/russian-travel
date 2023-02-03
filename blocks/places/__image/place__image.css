@@ -1,13 +1,11 @@
-
-
 .place__image {
-   grid-column: 1/2;
-   width: 100%;
- }
+  grid-column: 1/2;
+  width: 100%;
+}
 
- @media (max-width: 625px) {
-   .place__image {
-     grid-area: place__image;
-     max-width: 320px;
-   }
- }
+@media (max-width: 625px) {
+  .place__image {
+    grid-area: place__image;
+    max-width: 320px;
+  }
+}

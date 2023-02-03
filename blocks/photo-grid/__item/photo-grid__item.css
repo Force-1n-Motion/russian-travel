@@ -1,12 +1,9 @@
-
-
 .photo-grid__item {
-   width: 100%;
- }
+  width: 100%;
+}
 
- @media (max-width: 1184px) {
-   .photo-grid__item {
-     width: 100%;
-   }
- }
- 
+@media (max-width: 1184px) {
+  .photo-grid__item {
+    width: 100%;
+  }
+}
