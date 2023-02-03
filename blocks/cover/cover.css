@@ -6,21 +6,17 @@
 @media (max-width: 1184px) {
   .cover {
     max-width: 1024px;
-    min-height: 640px;
-    flex-shrink: 0;
   }
 }
 
 @media (max-width: 1000px) {
   .cover {
     max-width: 768px;
-    min-height: 480px;
   }
 }
 
 @media (max-width: 600px) {
   .cover {
     max-width: 320px;
-    min-height: 200px;
   }
 }
