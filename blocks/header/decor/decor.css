@@ -5,3 +5,10 @@
   font-size: 24px;
   font-weight: 400;
 }
+
+@media (max-width: 600px) {
+  .decor {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
