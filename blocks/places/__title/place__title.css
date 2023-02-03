@@ -8,7 +8,6 @@
 
 @media (max-width: 1000px) {
   .place__title {
-    font-weight: 900;
     font-size: 42px;
     line-height: 46px;
     padding-right: 10px;
@@ -17,7 +16,6 @@
 
 @media (max-width: 625px) {
   .place__title {
-    font-weight: 900;
     font-size: 32px;
     line-height: 35px;
     padding-right: 0;

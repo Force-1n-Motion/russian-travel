@@ -38,7 +38,6 @@
   .cover {
     max-width: 768px;
     min-height: 480px;
-    flex-shrink: 0;
   }
 }
 
@@ -46,6 +45,5 @@
   .cover {
     max-width: 320px;
     min-height: 200px;
-    flex-shrink: 0;
   }
 }
