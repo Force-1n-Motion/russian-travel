@@ -2,7 +2,7 @@
   text-decoration: none;
   color: #fff;
   display: flex;
-  height: 740px;
+  min-height: 740px;
   background: url(../../../images/cover-trains.jpg);
   background-size: cover;
   align-items: center;
@@ -30,20 +30,18 @@
 @media (max-width: 1184px) {
   .cover__link {
     max-width: 1024px;
-    height: 640px;
+    max-height: 640px;
   }
 }
 
 @media (max-width: 850px) {
   .cover__link {
     max-width: 768px;
-    height: 480px;
   }
 }
 
 @media (max-width: 400px) {
   .cover__link {
     max-width: 320px;
-    height: 200px;
   }
 }

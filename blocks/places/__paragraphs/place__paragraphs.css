@@ -12,11 +12,10 @@
   }
 }
 
-@media (max-width: 625px) {
+@media (max-width: 400px) {
   .place__paragraphs {
     line-height: 162%;
     grid-area: place__paragraphs;
-    max-width: 288px;
     padding: 0 16px;
   }
 }

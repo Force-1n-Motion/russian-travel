@@ -4,19 +4,7 @@
 }
 
 @media (max-width: 1184px) {
-  .cover {
-    max-width: 1024px;
-  }
-}
-
-@media (max-width: 1000px) {
-  .cover {
-    max-width: 768px;
-  }
-}
-
-@media (max-width: 600px) {
-  .cover {
-    max-width: 320px;
+  .cover__link {
+   margin: 0 auto;
   }
 }

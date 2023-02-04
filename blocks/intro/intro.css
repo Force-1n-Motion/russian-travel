@@ -6,19 +6,19 @@
 
 @media (max-width: 1184px) {
   .intro {
-    max-width: 690px;
+    
     margin: 92px 286px 92px 48px;
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   .intro {
-    max-width: 720px;
-    margin: 88px 24px 88px 24px;
+    margin: 88px 24px 88px;
+    
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   .intro {
     margin: 64px 16px;
   }

@@ -10,7 +10,6 @@
 @media (max-width: 1184px) {
   .lead {
     margin: 0 48px;
-    max-width: 928px;
   }
 }
 @media (max-width: 1000px) {
@@ -18,13 +17,8 @@
     margin: 0 auto;
   }
 }
-@media (max-width: 750px) {
-  .lead {
-    max-width: 620px;
-  }
-}
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   .lead {
     max-width: 320px;
   }

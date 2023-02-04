@@ -6,15 +6,8 @@
   max-width: 690px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 400px) {
   .intro__title {
-    max-width: 720px;
-  }
-}
-
-@media (max-width: 600px) {
-  .intro__title {
-    max-width: 288px;
     font-size: 32px;
     line-height: 35px;
   }

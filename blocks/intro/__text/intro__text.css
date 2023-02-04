@@ -7,13 +7,3 @@
   max-width: 690px;
 }
 
-@media (max-width: 1000px) {
-  .intro__text {
-    max-width: 720px;
-  }
-}
-@media (max-width: 600px) {
-  .intro__text {
-    max-width: 288px;
-  }
-}
