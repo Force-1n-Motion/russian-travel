@@ -1,6 +1,6 @@
 .place__paragraphs {
   margin: 0;
-  line-height: 161%;
+  line-height: 163%;
   font-size: 18px;
   font-weight: 400;
 }
@@ -8,13 +8,11 @@
 @media (max-width: 1000px) {
   .place__paragraphs {
     font-size: 16px;
-    line-height: 163%;
   }
 }
 
 @media (max-width: 400px) {
   .place__paragraphs {
-    line-height: 162%;
     grid-area: place__paragraphs;
     padding: 0 16px;
   }

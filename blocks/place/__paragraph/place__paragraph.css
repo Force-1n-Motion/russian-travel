@@ -3,6 +3,11 @@
   padding-bottom: 27px;
 }
 
+.place__paragraph:last-child {
+padding: 0;
+}
+
+
 @media (max-width: 1000px) {
   .place__paragraph {
     padding-bottom: 25px;

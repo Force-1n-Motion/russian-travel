@@ -1,4 +1,4 @@
-.decor {
+.header__lang-link_active {
   text-decoration: none;
   color: #fff;
   line-height: 35px;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 600px) {
-  .decor {
+  .header__lang-link_active {
     font-size: 18px;
     line-height: 20px;
   }
