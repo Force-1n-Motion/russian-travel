@@ -1,6 +1,7 @@
 .cover {
   max-width: 1184px;
   margin: 0 auto;
+  background-position: center;
 }
 
 @media (max-width: 1184px) {
