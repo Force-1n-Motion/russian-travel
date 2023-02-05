@@ -1,25 +1,16 @@
 .lead {
-  max-width: 984px;
+  max-width: 1080px;
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  margin: 0 148px;
+  margin: 0 auto;
+  padding: 0 48px;
+  box-sizing: border-box;
 }
 
-@media (max-width: 1184px) {
+@media (max-width: 800px) {
   .lead {
-    margin: 0 48px;
-  }
-}
-@media (max-width: 1000px) {
-  .lead {
-    margin: 0 auto;
-  }
-}
-
-@media (max-width: 400px) {
-  .lead {
-    max-width: 320px;
+   padding: 0;
   }
 }
