@@ -6,7 +6,6 @@
   max-width: 360px;
   margin: 32px 0 0;
   z-index: 1;
-  padding-bottom: 20px;
 }
 
 @media (max-width: 600px) {
